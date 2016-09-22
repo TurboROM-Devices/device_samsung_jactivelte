@@ -4,5 +4,11 @@
     "repository": "TurboROM-Devices/device_samsung_jf-common",
     "target_path": "device/samsung/jf-common",
     "branch": "mm"
+  },
+  {
+    "remote": "github",
+    "repository": "Tempertet/vendor_samsung_jactivelte"
+    "target_path": "vendor/samsung/jactivelte"
+    "branch": "l"
   }
 ]
