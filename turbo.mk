@@ -13,8 +13,8 @@ PRODUCT_PACKAGES += \
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME=jactivelte \
     TARGET_DEVICE=jactivelte \
-    BUILD_FINGERPRINT="samsung/jactivelte/jactivelte:5.0.1/LRX22C/I9295XXUDOI5:user/release-keys" \
-    PRIVATE_BUILD_DESC="jactivelte-user 5.0.1 LRX22C I9295XXUDOI5 release-keys"
+    BUILD_FINGERPRINT="samsung/jactivelte/jactivelte:5.0.1/LRX22C/I9295XXUDPF1:user/release-keys" \
+    PRIVATE_BUILD_DESC="jactivelte-user 5.0.1 LRX22C I9295XXUDPF1 release-keys"
 
 PRODUCT_NAME := turbo_jactivelte
 PRODUCT_DEVICE := jactivelte
